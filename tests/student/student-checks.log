@@ -1,0 +1,4 @@
+Note: /workspace/scratch/ced8f9dc689e/daa-assignment-4/Java/source/Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+PASS 643 small oracle and boundary cases, seed 2537
+PASS 7 full-domain stress cases (including deep tree and 64-bit costs)
